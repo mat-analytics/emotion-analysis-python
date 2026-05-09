@@ -1,6 +1,6 @@
 # AI emotion analyzer 🧠
 
-My first project using Transformer type moedls to analyze emotions of given text.
+My first project using Transformer type models to analyze emotions of given text.
 
 ## How it works? 🔍
 Program asks user to type text and then uses model from Huggin Face to judge is the text positive or negative.
